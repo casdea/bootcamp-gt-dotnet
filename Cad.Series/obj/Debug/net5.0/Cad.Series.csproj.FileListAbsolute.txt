@@ -1,0 +1,5 @@
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.AssemblyReference.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfoInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfo.cs
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.CoreCompileInputs.cache
