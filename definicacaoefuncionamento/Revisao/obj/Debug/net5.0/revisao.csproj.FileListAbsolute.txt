@@ -1,0 +1,16 @@
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\revisao.exe
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\revisao.deps.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\revisao.runtimeconfig.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\revisao.runtimeconfig.dev.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\revisao.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\ref\revisao.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\bin\Debug\net5.0\revisao.pdb
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.csproj.AssemblyReference.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.AssemblyInfoInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.AssemblyInfo.cs
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.csproj.CoreCompileInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\ref\revisao.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.pdb
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\revisao\obj\Debug\net5.0\revisao.genruntimeconfig.cache
