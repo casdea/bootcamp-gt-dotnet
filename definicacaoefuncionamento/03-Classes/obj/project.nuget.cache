@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AcGrGiS0Ryyh0TAAReng6qfdHgoJr8rfx0l1iaTQPhmXMCHgtEKNAPw4npa8aZtPjam01HYI9jYyHE/XDOI4qg==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Digital Innovation One\\bootcamp gt dotnet\\definicacaoefuncionamento\\03-Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
