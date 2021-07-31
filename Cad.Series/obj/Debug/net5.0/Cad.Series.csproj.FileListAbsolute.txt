@@ -3,3 +3,14 @@ D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\
 D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfoInputs.cache
 D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.AssemblyInfo.cs
 D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.csproj.CoreCompileInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\Cad.Series.exe
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\Cad.Series.deps.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\Cad.Series.runtimeconfig.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\Cad.Series.runtimeconfig.dev.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\Cad.Series.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\ref\Cad.Series.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\bin\Debug\net5.0\Cad.Series.pdb
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\ref\Cad.Series.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.pdb
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\Cad.Series\obj\Debug\net5.0\Cad.Series.genruntimeconfig.cache
