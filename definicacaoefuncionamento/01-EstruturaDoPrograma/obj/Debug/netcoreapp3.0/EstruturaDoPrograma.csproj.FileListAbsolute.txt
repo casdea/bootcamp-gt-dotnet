@@ -1,0 +1,13 @@
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.genruntimeconfig.cache

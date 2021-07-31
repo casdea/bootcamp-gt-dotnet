@@ -1,0 +1,4 @@
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.AssemblyReference.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\definicacaoefuncionamento\02-Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache
