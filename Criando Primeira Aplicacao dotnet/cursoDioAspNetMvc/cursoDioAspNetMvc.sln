@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursoDioAspNetMvc", "cursoDioAspNetMvc\cursoDioAspNetMvc.csproj", "{99FC3D55-F692-496B-A864-FE4DDD58DF8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cursoDioAspNetMvc", "cursoDioAspNetMvc\cursoDioAspNetMvc.csproj", "{99FC3D55-F692-496B-A864-FE4DDD58DF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{23081A41-AD8E-4EB0-8ADE-0F018F4BFD85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{A6ACD18B-1CFC-4530-8B4F-3485A086B252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{99FC3D55-F692-496B-A864-FE4DDD58DF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99FC3D55-F692-496B-A864-FE4DDD58DF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99FC3D55-F692-496B-A864-FE4DDD58DF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23081A41-AD8E-4EB0-8ADE-0F018F4BFD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23081A41-AD8E-4EB0-8ADE-0F018F4BFD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23081A41-AD8E-4EB0-8ADE-0F018F4BFD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23081A41-AD8E-4EB0-8ADE-0F018F4BFD85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6ACD18B-1CFC-4530-8B4F-3485A086B252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ACD18B-1CFC-4530-8B4F-3485A086B252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ACD18B-1CFC-4530-8B4F-3485A086B252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ACD18B-1CFC-4530-8B4F-3485A086B252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
