@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Ojsaclg3WCol/argg5+xvqjP+RIMyPMdDlQzoYVUaDgXArP8+XKkJ34Wyj/+K6cxJ+b6zYiSiR3tXCiI0ZlFSw==",
+  "dgSpecHash": "HIQpxh97wXdwuL615GZw6kvqZJ0ncByzqorPQzY/dQylbh23z7gIx2TpmTLLcG0EYPjCNb8R0F2zrlLIMM0Peg==",
   "success": true,
   "projectFilePath": "D:\\Cursos\\Digital Innovation One\\bootcamp gt dotnet\\CursoApiBackEnd\\CursoApiBackuEnd\\CursoApiBackuEnd\\CursoApiBackuEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Andrade\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Carlos Andrade\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.1.5\\swashbuckle.aspnetcore.annotations.6.1.5.nupkg.sha512",
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512",
     "C:\\Users\\Carlos Andrade\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
