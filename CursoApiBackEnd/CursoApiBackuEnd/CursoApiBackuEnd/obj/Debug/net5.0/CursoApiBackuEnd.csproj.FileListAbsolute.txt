@@ -27,3 +27,4 @@ D:\Cursos\Digital Innovation One\bootcamp gt dotnet\CursoApiBackEnd\CursoApiBack
 D:\Cursos\Digital Innovation One\bootcamp gt dotnet\CursoApiBackEnd\CursoApiBackuEnd\CursoApiBackuEnd\obj\Debug\net5.0\ref\CursoApiBackuEnd.dll
 D:\Cursos\Digital Innovation One\bootcamp gt dotnet\CursoApiBackEnd\CursoApiBackuEnd\CursoApiBackuEnd\obj\Debug\net5.0\CursoApiBackuEnd.pdb
 D:\Cursos\Digital Innovation One\bootcamp gt dotnet\CursoApiBackEnd\CursoApiBackuEnd\CursoApiBackuEnd\obj\Debug\net5.0\CursoApiBackuEnd.genruntimeconfig.cache
+D:\Cursos\Digital Innovation One\bootcamp gt dotnet\CursoApiBackEnd\CursoApiBackuEnd\CursoApiBackuEnd\bin\Debug\net5.0\CursoApiBackuEnd.xml
