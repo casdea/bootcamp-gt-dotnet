@@ -1,0 +1,7 @@
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\bin\Debug\ConsoleAppDesafiosDio.exe.config
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\bin\Debug\ConsoleAppDesafiosDio.exe
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\bin\Debug\ConsoleAppDesafiosDio.pdb
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\obj\Debug\ConsoleAppDesafiosDio.csproj.AssemblyReference.cache
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\obj\Debug\ConsoleAppDesafiosDio.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\obj\Debug\ConsoleAppDesafiosDio.exe
+C:\Users\Carlos Andrade\source\repos\ConsoleAppDesafiosDio\ConsoleAppDesafiosDio\obj\Debug\ConsoleAppDesafiosDio.pdb
