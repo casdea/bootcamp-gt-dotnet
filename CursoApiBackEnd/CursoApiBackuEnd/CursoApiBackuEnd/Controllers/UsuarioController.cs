@@ -1,4 +1,5 @@
-﻿using CursoApiBackuEnd.Models;
+﻿using curso.api.Filters;
+using CursoApiBackuEnd.Models;
 using CursoApiBackuEnd.Models.Usuarios;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -20,6 +21,7 @@ namespace CursoApiBackuEnd.Controllers
 
         [HttpPost]
         [Route("logar")]
+        [ValidacaoModelStateCustomizado]
         public IActionResult Logar(LoginViewModelInput loginViewModelInput)
         {
             return Ok(loginViewModelInput);
@@ -31,6 +33,7 @@ namespace CursoApiBackuEnd.Controllers
 
         [HttpPost]
         [Route("registrar")]
+        [ValidacaoModelStateCustomizado]
         public IActionResult Registrar(RegistroViewModelInput registroViewModelInput)
         {
             return Created("", registroViewModelInput);

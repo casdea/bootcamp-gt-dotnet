@@ -1,4 +1,4 @@
-﻿namespace curso.api.Models
+﻿namespace CursoApiBackuEnd.Models
 {
     public class ErroGenericoViewModel
     {
