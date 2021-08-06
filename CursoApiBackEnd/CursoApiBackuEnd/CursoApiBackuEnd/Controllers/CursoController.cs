@@ -1,6 +1,7 @@
-﻿using curso.api.Business.Entities;
-using curso.api.Business.Repositories;
-using curso.api.Models.Cursos;
+﻿using CursoApiBackuEnd.Business.Entities;
+using CursoApiBackuEnd.Business.Repositories;
+using CursoApiBackuEnd.Models.Cursos;
+using CursoApiBackuEnd.Business.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
