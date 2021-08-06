@@ -1,13 +1,11 @@
 ﻿using CursoApiBackuEnd.Business.Entities;
 using CursoApiBackuEnd.Business.Repositories;
 using CursoApiBackuEnd.Models.Cursos;
-using CursoApiBackuEnd.Business.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Swashbuckle.AspNetCore.Annotations;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
