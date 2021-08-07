@@ -2,7 +2,7 @@
 using CursoApiBackuEnd.Infraestruture.Data.Mappings;
 using Microsoft.EntityFrameworkCore;
 
-namespace curso.api.Infraestruture.Data
+namespace CursoApiBackuEnd.Infraestruture.Data
 {
     public class CursoDbContext : DbContext
     {

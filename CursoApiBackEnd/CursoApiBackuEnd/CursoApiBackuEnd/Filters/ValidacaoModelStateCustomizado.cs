@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System.Linq;
 
-namespace curso.api.Filters
+namespace CursoApiBackuEnd.Filters
 {
     public class ValidacaoModelStateCustomizado : ActionFilterAttribute
     {

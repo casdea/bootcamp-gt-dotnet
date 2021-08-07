@@ -1,4 +1,4 @@
-﻿using curso.api.Infraestruture.Data;
+﻿using CursoApiBackuEnd.Infraestruture.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;

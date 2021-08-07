@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace curso.api.Infraestruture.Data.Repositories
+namespace CursoApiBackuEnd.Infraestruture.Data.Repositories
 {
     public class UsuarioRepository : IUsuarioRepository
     {

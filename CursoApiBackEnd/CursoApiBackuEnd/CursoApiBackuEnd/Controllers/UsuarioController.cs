@@ -1,9 +1,9 @@
-﻿using curso.api.Filters;
-using CursoApiBackuEnd.Business.Entities;
+﻿using CursoApiBackuEnd.Business.Entities;
 using CursoApiBackuEnd.Business.Repositories;
+using CursoApiBackuEnd.Configurations;
+using CursoApiBackuEnd.Filters;
 using CursoApiBackuEnd.Models;
 using CursoApiBackuEnd.Models.Usuarios;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Swashbuckle.AspNetCore.Annotations;

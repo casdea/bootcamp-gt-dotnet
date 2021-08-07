@@ -1,6 +1,6 @@
-﻿using curso.api.Models.Usuarios;
+﻿using CursoApiBackuEnd.Models.Usuarios;
 
-namespace curso.api.Configurations
+namespace CursoApiBackuEnd.Configurations
 {
     public interface IAuthenticationService
     {

@@ -1,4 +1,4 @@
-﻿using curso.api.Infraestruture.Data;
+﻿using CursoApiBackuEnd.Infraestruture.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
