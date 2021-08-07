@@ -2,7 +2,7 @@
 
 namespace CursoApiBackuEnd.Migrations
 {
-    public partial class Baseinicial : Migration
+    public partial class baseinicial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
